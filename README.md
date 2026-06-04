@@ -52,8 +52,8 @@ No external dependencies are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/cli-alarm-clock.git
-cd cli-alarm-clock
+git clone https://github.com/ShubhodeepMukherjee123/Better_Alarm_Clock_CLI.git
+cd Better_Alarm_Clock_CLI
 ```
 
 ---
